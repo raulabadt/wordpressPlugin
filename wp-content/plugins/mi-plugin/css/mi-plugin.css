@@ -1,0 +1,17 @@
+.mi-plugin-container {
+    display: flex;
+}
+
+.mi-plugin-column {
+    flex: 1;
+    padding: 10px;
+}
+
+.mi-plugin-item {
+    margin-bottom: 20px;
+}
+
+.mi-plugin-item img {
+    max-width: 100%;
+    height: auto;
+}
