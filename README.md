@@ -1,2 +1,2 @@
 # wordpressPlugin
-plugins wordpress sufijo titulo paginal y creacion de json
+plugins wordpress sufijo titulo pagina y creacion de json
